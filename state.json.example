@@ -1,0 +1,10 @@
+{
+  "in_position": false,
+  "entry_price": null,
+  "base_asset_amount": 0.0,
+  "dry_run_usdt_balance": 1.0,
+  "consecutive_errors": 0,
+  "cooldown_until": null,
+  "last_run": "2026-09-08T12:00:00+00:00",
+  "last_action": null
+}
