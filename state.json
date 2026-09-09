@@ -5,6 +5,8 @@
   "dry_run_usdt_balance": 1.0,
   "consecutive_errors": 0,
   "cooldown_until": null,
-  "last_run": "2026-09-08T12:00:00+00:00",
-  "last_action": null
+  "last_run": "2026-09-09T17:20:09.120644+00:00",
+  "last_action": null,
+  "stop_loss_price": null,
+  "take_profit_price": null
 }
