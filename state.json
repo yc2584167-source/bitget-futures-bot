@@ -3,9 +3,9 @@
   "entry_price": null,
   "base_asset_amount": 0.0,
   "dry_run_usdt_balance": 1.0,
-  "consecutive_errors": 3,
+  "consecutive_errors": 4,
   "cooldown_until": null,
-  "last_run": "2026-11-02T01:33:57.714762+00:00",
+  "last_run": "2026-11-02T08:11:10.641043+00:00",
   "last_action": null,
   "stop_loss_price": null,
   "take_profit_price": null
